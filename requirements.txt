@@ -1,0 +1,8 @@
+# Dependências do projeto (versões testadas). Instalar com: pip install -r requirements.txt
+fastapi==0.145.0
+uvicorn==0.54.0
+python-dotenv==1.2.4
+
+# Testes
+pytest==9.1.1
+httpx==0.28.1
